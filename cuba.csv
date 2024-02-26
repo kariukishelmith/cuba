@@ -1,0 +1,26 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Havana,23.1367,-82.3589,Cuba,CU,La Habana,primary,2141652,2089532
+Santiago de Cuba,20.0217,-75.8294,Cuba,CU,Santiago de Cuba,admin,917340,444851
+Holguín,20.8869,-76.2592,Cuba,CU,Holguín,admin,350191,350191
+Camagüey,21.3839,-77.9075,Cuba,CU,Camagüey,admin,321992,321992
+Ciego de Ávila,21.8481,-78.7631,Cuba,CU,Ciego de Ávila,admin,278672,143449
+Santa Clara,22.4069,-79.9649,Cuba,CU,Villa Clara,admin,247436,247436
+Bayamo,20.3817,-76.6428,Cuba,CU,Granma,admin,235107,235107
+Guantánamo,20.1367,-75.2139,Cuba,CU,Guantánamo,admin,228436,228436
+Carlos Manuel de Céspedes,21.5767,-78.2775,Cuba,CU,Camagüey,minor,224488,224488
+Arroyo Naranjo,23.0436,-82.3328,Cuba,CU,La Habana,,210053,210053
+Las Tunas,20.9597,-76.9544,Cuba,CU,Las Tunas,admin,202105,202105
+Pinar del Río,22.4122,-83.6719,Cuba,CU,Pinar del Río,admin,188614,188614
+Cienfuegos,22.1456,-80.4364,Cuba,CU,Cienfuegos,admin,164924,164924
+Manzanillo,20.3397,-77.1086,Cuba,CU,Granma,minor,150999,150999
+Matanzas,23.0511,-81.5753,Cuba,CU,Matanzas,admin,145246,145246
+Centro Habana,23.1333,-82.3833,Cuba,CU,La Habana,,140234,140234
+Sancti Spíritus,21.9339,-79.4439,Cuba,CU,Sancti Spíritus,admin,138504,138504
+Jimaguayú,21.2667,-77.8303,Cuba,CU,Camagüey,minor,123954,123954
+Guanabacoa,23.1252,-82.3007,Cuba,CU,La Habana,,115180,115180
+Contramaestre,20.3,-76.2506,Cuba,CU,Santiago de Cuba,minor,106002,106002
+Mayarí,20.6592,-75.6781,Cuba,CU,Holguín,minor,102354,102354
+San José de las Lajas,22.9678,-82.1558,Cuba,CU,Mayabeque,admin,73136,73136
+Artemisa,22.8136,-82.7633,Cuba,CU,Artemisa,admin,59130,59130
+Nueva Gerona,21.8847,-82.8011,Cuba,CU,Isla de la Juventud,admin,45577,45577
+Juraguá,22.0978,-80.5568,Cuba,CU,Cienfuegos,,7000,7000
